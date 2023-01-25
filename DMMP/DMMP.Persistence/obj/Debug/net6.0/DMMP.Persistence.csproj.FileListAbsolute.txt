@@ -1,0 +1,12 @@
+C:\Users\sebas\Desktop\MyDocuments\Arbeit\Project_DMMP\DMMP-API\DMMP\DMMP.Persistence\bin\Debug\net6.0\DMMP.Persistence.deps.json
+C:\Users\sebas\Desktop\MyDocuments\Arbeit\Project_DMMP\DMMP-API\DMMP\DMMP.Persistence\bin\Debug\net6.0\DMMP.Persistence.dll
+C:\Users\sebas\Desktop\MyDocuments\Arbeit\Project_DMMP\DMMP-API\DMMP\DMMP.Persistence\bin\Debug\net6.0\DMMP.Persistence.pdb
+C:\Users\sebas\Desktop\MyDocuments\Arbeit\Project_DMMP\DMMP-API\DMMP\DMMP.Persistence\obj\Debug\net6.0\DMMP.Persistence.csproj.AssemblyReference.cache
+C:\Users\sebas\Desktop\MyDocuments\Arbeit\Project_DMMP\DMMP-API\DMMP\DMMP.Persistence\obj\Debug\net6.0\DMMP.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\Desktop\MyDocuments\Arbeit\Project_DMMP\DMMP-API\DMMP\DMMP.Persistence\obj\Debug\net6.0\DMMP.Persistence.AssemblyInfoInputs.cache
+C:\Users\sebas\Desktop\MyDocuments\Arbeit\Project_DMMP\DMMP-API\DMMP\DMMP.Persistence\obj\Debug\net6.0\DMMP.Persistence.AssemblyInfo.cs
+C:\Users\sebas\Desktop\MyDocuments\Arbeit\Project_DMMP\DMMP-API\DMMP\DMMP.Persistence\obj\Debug\net6.0\DMMP.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Desktop\MyDocuments\Arbeit\Project_DMMP\DMMP-API\DMMP\DMMP.Persistence\obj\Debug\net6.0\DMMP.Persistence.dll
+C:\Users\sebas\Desktop\MyDocuments\Arbeit\Project_DMMP\DMMP-API\DMMP\DMMP.Persistence\obj\Debug\net6.0\refint\DMMP.Persistence.dll
+C:\Users\sebas\Desktop\MyDocuments\Arbeit\Project_DMMP\DMMP-API\DMMP\DMMP.Persistence\obj\Debug\net6.0\DMMP.Persistence.pdb
+C:\Users\sebas\Desktop\MyDocuments\Arbeit\Project_DMMP\DMMP-API\DMMP\DMMP.Persistence\obj\Debug\net6.0\ref\DMMP.Persistence.dll

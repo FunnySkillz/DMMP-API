@@ -1,0 +1,12 @@
+C:\Users\sebas\Desktop\MyDocuments\Arbeit\Project_DMMP\DMMP-API\DMMP\DMMP.Core\bin\Debug\net6.0\DMMP.Core.deps.json
+C:\Users\sebas\Desktop\MyDocuments\Arbeit\Project_DMMP\DMMP-API\DMMP\DMMP.Core\bin\Debug\net6.0\DMMP.Core.dll
+C:\Users\sebas\Desktop\MyDocuments\Arbeit\Project_DMMP\DMMP-API\DMMP\DMMP.Core\bin\Debug\net6.0\DMMP.Core.pdb
+C:\Users\sebas\Desktop\MyDocuments\Arbeit\Project_DMMP\DMMP-API\DMMP\DMMP.Core\obj\Debug\net6.0\DMMP.Core.csproj.AssemblyReference.cache
+C:\Users\sebas\Desktop\MyDocuments\Arbeit\Project_DMMP\DMMP-API\DMMP\DMMP.Core\obj\Debug\net6.0\DMMP.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\Desktop\MyDocuments\Arbeit\Project_DMMP\DMMP-API\DMMP\DMMP.Core\obj\Debug\net6.0\DMMP.Core.AssemblyInfoInputs.cache
+C:\Users\sebas\Desktop\MyDocuments\Arbeit\Project_DMMP\DMMP-API\DMMP\DMMP.Core\obj\Debug\net6.0\DMMP.Core.AssemblyInfo.cs
+C:\Users\sebas\Desktop\MyDocuments\Arbeit\Project_DMMP\DMMP-API\DMMP\DMMP.Core\obj\Debug\net6.0\DMMP.Core.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Desktop\MyDocuments\Arbeit\Project_DMMP\DMMP-API\DMMP\DMMP.Core\obj\Debug\net6.0\DMMP.Core.dll
+C:\Users\sebas\Desktop\MyDocuments\Arbeit\Project_DMMP\DMMP-API\DMMP\DMMP.Core\obj\Debug\net6.0\refint\DMMP.Core.dll
+C:\Users\sebas\Desktop\MyDocuments\Arbeit\Project_DMMP\DMMP-API\DMMP\DMMP.Core\obj\Debug\net6.0\DMMP.Core.pdb
+C:\Users\sebas\Desktop\MyDocuments\Arbeit\Project_DMMP\DMMP-API\DMMP\DMMP.Core\obj\Debug\net6.0\ref\DMMP.Core.dll

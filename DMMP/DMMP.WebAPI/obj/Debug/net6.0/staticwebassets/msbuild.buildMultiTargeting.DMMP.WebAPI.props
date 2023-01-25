@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DMMP.WebAPI.props" />
+</Project>
